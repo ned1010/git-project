@@ -14,3 +14,7 @@ This is a remote repository
 
 This is a branch we created on remote repository
 >>>>>>> origin/master
+
+
+
+Hi there, still figuring out how to use git
